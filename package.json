@@ -1,0 +1,23 @@
+{
+  "name": "ex_js",
+  "version": "1.0.0",
+  "description": "Pure javascript application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohdan-t/EX_js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Bohdan Tuteiko <tutejschei@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohdan-t/EX_js/issues"
+  },
+  "homepage": "https://github.com/bohdan-t/EX_js#readme"
+}
