@@ -3,3 +3,5 @@ node_modules
 *.txt
 dist
 
+yarn-error.log
+yarn.lock
